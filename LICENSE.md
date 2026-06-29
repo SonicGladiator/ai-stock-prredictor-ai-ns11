@@ -1,4 +1,4 @@
-# 
+# Avançado AI Stock Price Predictor extensões. Com aprendizado por reforço e reconhecimento de voz — otimizado para máximo desempenho.
 
 
 
